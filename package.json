@@ -1,0 +1,19 @@
+{
+  "name": "jquery-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alirezakm10/signupdesign.git"
+  },
+  "author": "alireza.version@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alirezakm10/signupdesign/issues"
+  },
+  "homepage": "https://github.com/alirezakm10/signupdesign#readme"
+}
